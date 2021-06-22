@@ -36,7 +36,7 @@
        <li>
       
            <a href="#">
-              <img src="{{ asset(img/footer-twitter.png)}}" alt="youtube">
+              <img src="{{ asset(img/footer-periscope.png)}}" alt="youtube">
            </a>
      
       </li>
