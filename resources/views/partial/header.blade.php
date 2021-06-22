@@ -9,8 +9,8 @@
      <div class="col">
        <div class="link my-4">
          <ul class="">
-           <li class="me-sm-2""><a href="">characters</a></li>
-           <li class="me-sm-2"><a href="">comics</a></li>
+           <li class="me-sm-2""><a href="/characters">characters</a></li>
+           <li class="me-sm-2"><a href="/">comics</a></li>
            <li class="me-sm-2"><a href="">movies</a></li>
            <li class="me-sm-2"><a href="">tv</a></li>
            <li class="me-sm-2"><a href="">games</a></li>
