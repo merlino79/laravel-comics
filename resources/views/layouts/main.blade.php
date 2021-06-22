@@ -16,7 +16,7 @@
 
       @yield('content') 
 
-      @include('partial.footer')
+      @include('partial.footer-bottom')
 
 </body>
 </html>
