@@ -1,3 +1,13 @@
 body {
   background-color: aqua;
 }
+
+header {
+  height: 100px;
+  width: 100%;
+  background-color: antiquewhite;
+}
+header img {
+  width: 70px;
+  height: 70px;
+}
