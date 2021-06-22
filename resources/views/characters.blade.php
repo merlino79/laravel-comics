@@ -2,6 +2,6 @@
 
 @section('content')
 
-    <main>Characters</main>
+    <main>link agganciato</main>
 
 @endsection
