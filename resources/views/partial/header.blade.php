@@ -9,7 +9,7 @@
      <div class="col">
        <div class="link my-4">
          <ul class="">
-           <li class=""><a href="">characters</a></li>
+           <li class="me-sm-3""><a href="">characters</a></li>
            <li><a href="">comics</a></li>
            <li><a href="">movies</a></li>
            <li><a href="">tv</a></li>
