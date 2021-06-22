@@ -29,4 +29,9 @@ Route::get('/movies', function () {
     return view('movies');
 })->name('movies');
 
+// Route::get('/films', function () {
+//   // i dati messi in config sono centralizzati per tutto il progetto
+//   $pasta = config('pasta');
+//   return view('prodotti', ['products' => $pasta]);
+// })->name('prodotti');
 
