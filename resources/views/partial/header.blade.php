@@ -9,16 +9,16 @@
      <div class="col">
        <div class="link my-4">
          <ul class="">
-           <li class="me-sm-3""><a href="">characters</a></li>
-           <li><a href="">comics</a></li>
-           <li><a href="">movies</a></li>
-           <li><a href="">tv</a></li>
-           <li><a href="">games</a></li>
-           <li><a href="">collectibles</a></li>
-           <li><a href="">videos</a></li>
-           <li><a href="">fans</a></li>
-           <li><a href="">news</a></li>
-           <li><a href="">shop</a></li>
+           <li class="me-sm-2""><a href="">characters</a></li>
+           <li class="me-sm-2"><a href="">comics</a></li>
+           <li class="me-sm-2"><a href="">movies</a></li>
+           <li class="me-sm-2"><a href="">tv</a></li>
+           <li class="me-sm-2"><a href="">games</a></li>
+           <li class="me-sm-2"><a href="">collectibles</a></li>
+           <li class="me-sm-2"><a href="">videos</a></li>
+           <li class="me-sm-2"><a href="">fans</a></li>
+           <li class="me-sm-2"><a href="">news</a></li>
+           <li class="me-sm-2"><a href="">shop</a></li>
          </ul>
        </div>
      </div>
