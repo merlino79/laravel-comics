@@ -27,7 +27,11 @@ header img {
   height: 70px;
 }
 
+footer .col .btn {
+  background-color: #c7cece;
+}
+
 body {
-  background-color: #292a2a;
-  color: white;
+  background-color: black;
+  color: wheat;
 }

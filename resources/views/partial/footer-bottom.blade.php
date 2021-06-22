@@ -25,33 +25,33 @@
         <div class="col">
            <div class="follow">
               <ul>
-                  <li>
+                  <li class="me-sm-2">
                 
                     <a href="#">FOLLOW US</a>
               
                 </li>
-                <li>
+                <li class="me-sm-2">
                 
                     <a href="#">
                       <img src="{{ asset('img/footer-facebook.png') }}" alt="facebook">
                     </a>
               
                 </li>
-                <li>
+                <li class="me-sm-2">
                 
                     <a href="#">
                       <img src="{{ asset('img/footer-twitter.png') }}" alt="twitter">
                     </a>
               
                 </li>
-                <li>
+                <li class="me-sm-2">
                 
                     <a href="#">
                         <img src="{{ asset('img/footer-periscope.png')}}" alt="youtube">
                     </a>
               
                 </li>
-                <li>
+                <li class="me-sm-2">
                 
                     <a href="#">
                       <img src="{{ asset('img/footer-youtube.png')}}" alt="pinterest">
@@ -59,7 +59,7 @@
                     </a>
               
                 </li>
-                <li>
+                <li class="me-sm-2">
                 
                     <a href="#">
                       <img src="{{ asset('img/footer-pinterest.png')}}" alt="periscope">

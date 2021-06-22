@@ -1,7 +1,9 @@
 //
-@import 'partials/general.scss';
-@import 'partials/header.scss';
+@import 'partials/general';
+@import 'partials/header';
+@import 'partials/footer-bottom';
+@import 'partials/films';
 body {
-    background-color: rgb(41, 42, 42);
-    color: white;
+    background-color: black;
+    color: wheat;
 }
