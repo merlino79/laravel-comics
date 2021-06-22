@@ -17,17 +17,17 @@ img {
   max-width: 100%;
 }
 
-body {
-  background-color: #292a2a;
-  color: white;
-}
-
 header {
   height: 100px;
   width: 100%;
-  background-color: antiquewhite;
+  background-color: #f3eee8;
 }
 header img {
   width: 70px;
   height: 70px;
+}
+
+body {
+  background-color: #292a2a;
+  color: white;
 }
